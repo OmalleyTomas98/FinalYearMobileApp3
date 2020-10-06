@@ -7,7 +7,7 @@
 \pagestyle{fancy}
 \fancyhead{}
 \fancyfoot[CO,RE]{Author}
-
+\usepackage{hyperref}
 \fancyfoot[RE,LO]{App}% other info in "inner" position of footer line
 
 \fancyfoot[LE,RO]{\thepage}
@@ -20,7 +20,15 @@
 
 \definecolor{gmitColour}{RGB}{115, 20, 25}
 \title{
-
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Sharelatex Example},
+    bookmarks=true,
+    pdfpagemode=FullScreen,
+}
 
 
 {\includegraphics[width=0.5\textwidth]{gmit.png}}
@@ -51,7 +59,7 @@ Department of Computer Science \par
 
 
 \tableofcontents
-\chapter{Project Overview}
+\chapter{Project Overview}	
 \input{chapters/ProjectOverview}
 
 \chapter{Game Philosophy}
