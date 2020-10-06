@@ -1,11 +1,13 @@
 \contentsline {chapter}{\numberline {1}Project Overview}{3}%
 \contentsline {chapter}{\numberline {2}Game Philosophy}{4}%
-\contentsline {chapter}{\numberline {3}Introduction to 3D Gaming }{5}%
-\contentsline {chapter}{\numberline {4}Front End}{6}%
-\contentsline {chapter}{\numberline {5}Control Mechanisms}{7}%
-\contentsline {chapter}{\numberline {6}Software}{8}%
-\contentsline {chapter}{\numberline {7}The Gameplay}{9}%
-\contentsline {chapter}{\numberline {8}Game Characters}{10}%
-\contentsline {chapter}{\numberline {9}Level Design}{11}%
-\contentsline {chapter}{\numberline {10}Obstacles}{12}%
-\contentsline {chapter}{\numberline {11}References}{13}%
+\contentsline {chapter}{\numberline {3}Game Philosophy}{5}%
+\contentsline {chapter}{\numberline {4}Introduction to 3D Gaming }{6}%
+\contentsline {subsection}{\numberline {4.0.1}Types of Games}{6}%
+\contentsline {chapter}{\numberline {5}Front End}{7}%
+\contentsline {chapter}{\numberline {6}Control Mechanisms}{8}%
+\contentsline {chapter}{\numberline {7}Software}{9}%
+\contentsline {chapter}{\numberline {8}The Gameplay}{10}%
+\contentsline {chapter}{\numberline {9}Game Characters}{11}%
+\contentsline {chapter}{\numberline {10}Level Design}{12}%
+\contentsline {chapter}{\numberline {11}Obstacles}{13}%
+\contentsline {chapter}{\numberline {12}References}{14}%
