@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.5)  6 OCT 2020 23:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.5)  9 OCT 2020 20:46
 entering extended mode
 **./main.tex
 (main.tex
@@ -238,22 +238,22 @@ File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
 
 (C:\Users\mosso\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -312,7 +312,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box47
-Package hyperref Info: Link coloring OFF on input line 49.
+Package hyperref Info: Link coloring OFF on input line 57.
 (C:\Users\mosso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -325,25 +325,37 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count196
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
+
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 59.
+
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 59.
+
+
+Package hyperref Warning: Option `pdfpagemode' has already been used,
+(hyperref)                setting the option has no effect on input line 59.
+
 <images/gmit.png, id=107, 721.69624pt x 460.72125pt>
 File: images/gmit.png Graphic file (type png)
 <use images/gmit.png>
-Package pdftex.def Info: images/gmit.png  used on input line 51.
+Package pdftex.def Info: images/gmit.png  used on input line 59.
 (pdftex.def)             Requested size: 213.39566pt x 136.22794pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 51.
+(Font)              <12> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 51.
+(Font)              <8> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 51.
-
+(Font)              <6> on input line 59.
 
 LaTeX Warning: No \author given.
 
@@ -366,32 +378,21 @@ Chapter 1.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 2.
 
-
-Underfull \hbox (badness 3209) in paragraph at lines 27--27
-[]\OT1/cmr/m/n/10.95 3D Unity Mod-
- []
-
-
-Overfull \hbox (14.22046pt too wide) in paragraph at lines 42--44
-[]\OT1/cmr/m/n/10.95 Allow the player to con-trol a spe-cific char-ac-ter, that
- has an im-por-tant fic-tional/narrative
- []
-
 ) [3
 
-] [4]
+]
 Chapter 2.
 (chapters/GamePhilosophy.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-<images/starfox.jpg, id=166, 307.1475pt x 179.67125pt>
+<images/starfox.jpg, id=164, 307.1475pt x 179.67125pt>
 File: images/starfox.jpg Graphic file (type jpg)
 <use images/starfox.jpg>
 Package pdftex.def Info: images/starfox.jpg  used on input line 15.
 (pdftex.def)             Requested size: 320.09349pt x 187.25668pt.
-<images/TempleRun.jpeg, id=167, 983.675pt x 421.575pt>
+<images/TempleRun.jpeg, id=165, 983.675pt x 421.575pt>
 File: images/TempleRun.jpeg Graphic file (type jpg)
 <use images/TempleRun.jpeg>
 Package pdftex.def Info: images/TempleRun.jpeg  used on input line 30.
@@ -399,31 +400,36 @@ Package pdftex.def Info: images/TempleRun.jpeg  used on input line 30.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5
+ [4
 
  <./images/starfox.jpg>]
-<images/chess.jpg, id=175, 454.0965pt x 252.34274pt>
+<images/chess.jpg, id=173, 454.0965pt x 252.34274pt>
 File: images/chess.jpg Graphic file (type jpg)
 <use images/chess.jpg>
 Package pdftex.def Info: images/chess.jpg  used on input line 41.
 (pdftex.def)             Requested size: 320.09349pt x 177.8747pt.
-) [6 <./images/TempleRun.jpeg> <./images/chess.jpg>]
+) [5 <./images/TempleRun.jpeg> <./images/chess.jpg>]
 Chapter 3.
 (chapters/Introductionto3D.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-) [7
+<images/doom.jpeg, id=179, 451.6875pt x 230.8625pt>
+File: images/doom.jpeg Graphic file (type jpg)
+<use images/doom.jpeg>
+Package pdftex.def Info: images/doom.jpeg  used on input line 17.
+(pdftex.def)             Requested size: 341.43436pt x 174.52028pt.
+) [6
 
-]
+ <./images/doom.jpeg>]
 Chapter 4.
 (chapters/FrontEnd.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-) [8
+) [7
 
 ]
 Chapter 5.
@@ -432,7 +438,7 @@ Chapter 5.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-) [9
+) [8
 
 ]
 Chapter 6.
@@ -441,11 +447,11 @@ Chapter 6.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-) [10
+) [9
 
 ]
 Chapter 7.
-(chapters/Gameplay.tex) [11
+(chapters/Gameplay.tex) [10
 
 ]
 Chapter 8.
@@ -454,7 +460,7 @@ Chapter 8.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-) [12
+) [11
 
 ]
 Chapter 9.
@@ -463,7 +469,7 @@ Chapter 9.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-) [13
+) [12
 
 ]
 Chapter 10.
@@ -472,7 +478,7 @@ Chapter 10.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-) [14
+) [13
 
 ]
 Chapter 11.
@@ -481,31 +487,31 @@ Chapter 11.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1.
 
-) [15
+) [14
 
 ]
 Chapter 12.
 (chapters/References.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
- [16
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
+ [15
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1C30C31B67081DF7BEB99B04B4929EBE;1551.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
+(rerunfilecheck)             Checksum: 33E1EBA4CA838B547C93C2698C3683F5;1551.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 6438 strings out of 480790
- 102153 string characters out of 2897301
- 369881 words of memory out of 3000000
- 22232 multiletter control sequences out of 15000+200000
+ 6442 strings out of 480790
+ 102239 string characters out of 2897301
+ 370035 words of memory out of 3000000
+ 22237 multiletter control sequences out of 15000+200000
  540011 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,11n,45p,467b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,11n,45p,445b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\mosso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/mosso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/mosso/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -515,18 +521,9 @@ eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mosso/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/mosso/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/mosso/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (16 pages, 361222 bytes).
+Output written on main.pdf (15 pages, 390016 bytes).
 PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
- 229 words of extra memory for PDF output out of 10000 (max. 10000000)
-
-e1/public/amsfonts/cm/cmr12.pfb><C:/Users/mosso/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/mosso/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (16 pages, 361240 bytes).
-PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
- 229 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
+ 234 words of extra memory for PDF output out of 10000 (max. 10000000)
 
